@@ -57,5 +57,3 @@ console.log( typeof(user));
 console.log( typeof(isGreater));
 console.log( typeof(student));
 console.log( typeof(numbers));
-
-
