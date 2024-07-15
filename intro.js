@@ -1,1 +1,1 @@
-console.log("hello this is hetvee kholiya");
+console.log("JavaScript");
